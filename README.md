@@ -92,7 +92,7 @@ Default runoff coefficient used:
 ## 1. Clone Repository
 
 ```bash
-git clone <your-repository-url>
+git clone "https://github.com/nr0127324-beep/jalsanchay-tracker.git"
 ```
 
 ---
